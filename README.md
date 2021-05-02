@@ -26,6 +26,6 @@ The original intent of making this app was to use Machine Learning (MBinarizer) 
   Shortcomings:
     
      1. The problem initially was looking solvable with smaller hiccups through the first week. 
-     2. Unfortunately after a lot of speculation i found the naviety on my part was to underestimate,
-        the Randomness of the post on r/ask_reddit.
-     3. Hence it was impossible to make a accurate model of the questions and emulate the rating system.
+     2. Unfortunately after a lot of speculation i found the naviety on my part was to underestimate the Randomness of 
+        the post on r/ask_reddit.
+     4. Hence it was impossible to make a accurate model of the questions and emulate the rating system.
